@@ -1,4 +1,4 @@
-# Portafolio Analisis
+# Portafolio Análisis
 Inteligencia artificial avanzada para la ciencia de datos II - Portafolio de análisis individual
 
 En la carpeta de [Estadística](Estadistica) se encuentra el link al drive con las actividades.
